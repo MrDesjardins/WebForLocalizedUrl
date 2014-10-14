@@ -3,3 +3,6 @@ This is a project to demonstrate how to handle languages by only using url.
 This code can be improved for AREA easily. The current state of the project handle Controller and Action.
 
 So, if you go to http://localhost/Maison/MonAction, the page links will be transformed to French links and the thread will be changed to French. But, if you go to http://localhost/Home/ThisIsAnAction, it will go into English.
+
+You can find a blog post about the detail of this repository here : 
+http://patrickdesjardins.com/blog/asp-net-mvc-localized-url-without-having-to-specify-the-language-in-it
